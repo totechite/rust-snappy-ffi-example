@@ -1,0 +1,10 @@
+[package]
+name = "practice_rust_ffi"
+version = "0.1.0"
+authors = ["totechite <yutan.h9@gmail.com>"]
+edition = "2018"
+build = "build.rs"
+
+[dependencies]
+libc = "0.2"
+
